@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf4d9e9b-f772-4a28-aafc-4978c0677b8e" name="Changes" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cf4d9e9b-f772-4a28-aafc-4978c0677b8e" name="Changes" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +46,7 @@
     "Python.grpc_client.executor": "Run",
     "Python.grpc_course_client.executor": "Run",
     "Python.httpx_authentication.executor": "Run",
+    "Python.httpx_create_user.executor": "Run",
     "Python.httpx_get_user_me.executor": "Run",
     "Python.main.executor": "Run",
     "Python.tcp_client.executor": "Run",
