@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf4d9e9b-f772-4a28-aafc-4978c0677b8e" name="Changes" comment="23:20 14.05.2026&#10;курс 6.3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/httpx_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/httpx_client.py" afterDir="false" />
-    </list>
+    <list default="true" id="cf4d9e9b-f772-4a28-aafc-4978c0677b8e" name="Changes" comment="23:20 14.05.2026&#10;курс 6.3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,27 +40,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.grpc_client.executor&quot;: &quot;Run&quot;,
-    &quot;Python.grpc_course_client.executor&quot;: &quot;Run&quot;,
-    &quot;Python.httpx_authentication.executor&quot;: &quot;Run&quot;,
-    &quot;Python.httpx_create_user.executor&quot;: &quot;Run&quot;,
-    &quot;Python.httpx_delete_user.executor&quot;: &quot;Run&quot;,
-    &quot;Python.httpx_get_user.executor&quot;: &quot;Run&quot;,
-    &quot;Python.httpx_get_user_me.executor&quot;: &quot;Run&quot;,
-    &quot;Python.httpx_update_user.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tcp_client.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tcp_users_client.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tcp_users_server.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.grpc_client.executor": "Run",
+    "Python.grpc_course_client.executor": "Run",
+    "Python.httpx_authentication.executor": "Run",
+    "Python.httpx_client.executor": "Run",
+    "Python.httpx_create_user.executor": "Run",
+    "Python.httpx_delete_user.executor": "Run",
+    "Python.httpx_get_user.executor": "Run",
+    "Python.httpx_get_user_me.executor": "Run",
+    "Python.httpx_update_user.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.tcp_client.executor": "Run",
+    "Python.tcp_users_client.executor": "Run",
+    "Python.tcp_users_server.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="autotests-api" />
@@ -124,7 +122,23 @@
       <option name="project" value="LOCAL" />
       <updated>1781468526060</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="23:20 14.05.2026&#10;курс 6.3">
+      <option name="closed" value="true" />
+      <created>1782591462739</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1782591462739</updated>
+    </task>
+    <task id="LOCAL-00004" summary="23:20 14.05.2026&#10;курс 6.3">
+      <option name="closed" value="true" />
+      <created>1782597661736</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1782597661736</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
